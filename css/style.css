@@ -1,0 +1,33 @@
+.intro {
+display: flex;
+align-items: center;
+gap: 30px;
+}
+
+.text {
+width: 50%;
+}
+
+.intro img {
+width: 50%;
+}
+body{
+	background-color: lightblue;
+}
+h1{
+	background-color: darkblue;
+	color:white;
+	font-size: 100px;
+	text-align: center;
+}
+img{
+	border: solid 10px darkblue;
+}
+h2, h3, h4{
+	text-decoration: underline;
+	font-size: 40px;
+	color: darkblue;
+}
+p, ol, ul{
+	font-size: 20px;
+}
